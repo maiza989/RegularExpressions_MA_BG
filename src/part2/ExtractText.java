@@ -1,4 +1,13 @@
-
+/**
+ * This class uses PDFbox 2.0 library from Apache Foundation (pdfbox-app-2.0.24.jar)
+ *  to extract the data from the PDF and save it in a plain text file.
+ *  
+ * @author Maitham Alghamgham, Bobby Gabriel
+ * @version 1.0
+ * Compiler Project 3
+ * CS322 - Compiler Construction
+ * Fall 2021
+ */
 package part2;
 
 import java.io.File;
