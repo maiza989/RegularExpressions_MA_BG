@@ -25,7 +25,7 @@ public class ExtractText {
             System.out.println("Text in PDF\n---------------------------------");
             System.out.println(text);
             
-            PrintWriter out = new PrintWriter("C:\\Users\\maith\\Desktop\\School\\CS-322\\RegularExpressions_MABG\\src\\part2\\Fall21.txt");
+            PrintWriter out = new PrintWriter("C:\\Users\\maith\\Desktop\\School\\CS-322\\RegularExpressions_MA_BG\\src\\part2\\Fall21.txt");
             out.println(text);
           
             
