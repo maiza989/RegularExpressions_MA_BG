@@ -28,7 +28,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 /**
  * to get the menu text to choose which search to do. You can use switch case to do so.
- * I couldn't do it correctly so a sorting to store the answers into different text file
+ * I couldn't do it correctly so a sorting to store the answers into different text file with the help or a classmate.
  * 
  */
 
