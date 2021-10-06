@@ -5899,4 +5899,270 @@ PT-613-01 Dissection Lab in Human Anat 4 Open 74 1 Prewitt, Ayotte, Frick, Hartl
 Barry, Rosinski
 Books
 Lecture 8/19/2021 - 12/09/2021 ALLN 260 TTh  8:00-8:50 AM
-Lectu
+Lecture 8/19/2021 - 12/09/2021 ALLN 460A TTh  8:00-8:50 AM
+PT-613L-01 Dissect Lab in Human Anat Lab 0 Open 74 1 Prewitt, Frick, Ayotte $510 Books
+Lab 8/19/2021 - 12/09/2021 ALLN 131 TTh  9:00-10:20 AM
+Lab 8/19/2021 - 12/09/2021 ALLN 260 TTh  9:00-10:20 AM
+Lab 8/19/2021 - 12/09/2021 ALLN 260 W  9:30-11:50 AM
+Lab 8/19/2021 - 12/09/2021 ALLN 460A TTh  9:00-10:20 AM
+PT-640-01 Mgmt of the Pediatric Patient 3 Open 74 1 Kerr, Ulanowski, Ennis, Martin, Wilder,
+Habermel
+Books
+Lecture 8/19/2021 - 12/09/2021 ALLN 110 F  8:00-9:50 AM
+Lecture 8/19/2021 - 12/09/2021 ALLN 200 F  8:00-9:50 AM
+Lecture 8/19/2021 - 12/09/2021 ALLN 260 F  8:00-9:50 AM
+Lecture 8/19/2021 - 12/09/2021 ALLN 460A F  8:00-9:50 AM
+Course Subject,
+Number &
+Section
+Title
+Credit
+Hours Status
+Max
+Cap
+Seats
+Avail Instructor
+Est'd
+Fee
+Req'd
+Mats
+Sub-
+Sess
+Instructional Method Dates Location Times Notes
+Page 144 of 150
+Last refreshed on 10/4/2021 at 7:05 PM Page 144 of 150
+PT-640L-01 Mgmt of Pediatric Patient Lab 0 Open 74 1 Kerr, Ennis, Ulanowski, Martin, Wilder $100 Books
+Lab 8/19/2021 - 12/09/2021 ALLN 260 M  10:00-11:50 AM
+Lab 8/19/2021 - 12/09/2021 ALLN 360 M  10:00-11:50 AM
+Lab 8/19/2021 - 12/09/2021 ALLN 460A M  10:00-11:50 AM
+Lab 8/19/2021 - 12/09/2021 ALLN 460B M  10:00-11:50 AM
+PT-670-01 Management in Physical Therapy 3 Open 74 1 Ennis, P Lonnemann $40 Books
+Lecture 8/19/2021 - 12/09/2021 ALLN 260 MW  8:00-9:20 AM
+Lecture 8/19/2021 - 12/09/2021 ALLN 460A MW  8:00-9:20 AM
+PT-680-01 Mgmt Cardiopulmonary Disease 4 Open 74 1 Quinn, Wingard, Hartmann, Almgren,
+Brown, Luttrell, Hornung, Candler,
+Charpentier, Hume, Pehlke
+$225 Books
+Lecture 8/19/2021 - 12/09/2021 ALLN 200 F  10:00-11:50 AM
+Lecture 8/19/2021 - 12/09/2021 ALLN 200 TTh  1:30-3:30 PM
+Lecture 8/19/2021 - 12/09/2021 ALLN 460A F  10:00-11:50 AM
+Lecture 8/19/2021 - 12/09/2021 ALLN 460A TTh  1:30-3:30 PM
+PT-691-01 Service & Commnty Learning III 2 Open 10 6 Ayotte, Ziegele, Ensor, Lukszys Books
+Clinic 8/19/2021 - 12/09/2021 ALLN 110 TTh  10:30 AM-12:30 PM
+Clinic 8/19/2021 - 12/09/2021 ALLN 200 TTh  10:30 AM-12:30 PM
+Clinic 8/19/2021 - 12/09/2021 ALLN 207 TTh  10:30 AM-12:30 PM
+PT-691-02 Service & Commnty Learning III 2 Open 10 5 Bareiss Books
+Clinic 8/19/2021 - 12/09/2021   See section 01 for meeting dates and locations.
+PT-691-03 Service & Commnty Learning III 2 Open 10 6 Crandell, Robertson, Vance, Lanoire, Cash,
+Stockwell
+Books
+Clinic 8/19/2021 - 12/09/2021   See section 01 for meeting dates and locations.
+Course Subject,
+Number &
+Section
+Title
+Credit
+Hours Status
+Max
+Cap
+Seats
+Avail Instructor
+Est'd
+Fee
+Req'd
+Mats
+Sub-
+Sess
+Instructional Method Dates Location Times Notes
+Page 145 of 150
+Last refreshed on 10/4/2021 at 7:05 PM Page 145 of 150
+PT-691-04 Service & Commnty Learning III 2 Open 10 6 Danzl Books
+Clinic 8/19/2021 - 12/09/2021   See section 01 for meeting dates and locations.
+PT-691-05 Service & Commnty Learning III 2 CLOSED 10 0 Ennis, Petty Books
+Clinic 8/19/2021 - 12/09/2021   See section 01 for meeting dates and locations.
+PT-691-06 Service & Commnty Learning III 2 Open 10 6 Granada Books
+Clinic 8/19/2021 - 12/09/2021   See section 01 for meeting dates and locations.
+PT-691-07 Service & Commnty Learning III 2 Open 10 6 Hall-Bibb, Levay Books
+Clinic 8/19/2021 - 12/09/2021   See section 01 for meeting dates and locations.
+PT-691-08 Service & Commnty Learning III 2 Open 10 6 Hartmann Books
+Clinic 8/19/2021 - 12/09/2021   See section 01 for meeting dates and locations.
+PT-691-09 Service & Commnty Learning III 2 Open 10 6 Kerr, Habermel Books
+Clinic 8/19/2021 - 12/09/2021   See section 01 for meeting dates and locations.
+PT-691-10 Service & Commnty Learning III 2 Open 10 10 Lesch Books
+Clinic 8/19/2021 - 12/09/2021   See section 01 for meeting dates and locations.
+PT-691-11 Service & Commnty Learning III 2 Open 10 5 L Miller, P Lonnemann Books
+Clinic 8/19/2021 - 12/09/2021   See section 01 for meeting dates and locations.
+PT-691-12 Service & Commnty Learning III 2 Open 10 6 Nevin Books
+Clinic 8/19/2021 - 12/09/2021   See section 01 for meeting dates and locations.
+Course Subject,
+Number &
+Section
+Title
+Credit
+Hours Status
+Max
+Cap
+Seats
+Avail Instructor
+Est'd
+Fee
+Req'd
+Mats
+Sub-
+Sess
+Instructional Method Dates Location Times Notes
+Page 146 of 150
+Last refreshed on 10/4/2021 at 7:05 PM Page 146 of 150
+PT-691-13 Service & Commnty Learning III 2 Open 10 5 Windsor Books
+Clinic 8/19/2021 - 12/09/2021   See section 01 for meeting dates and locations.
+PT-691-14 Service & Commnty Learning III 2 Open 10 5 Urbscheit, Prewitt Books
+Clinic 8/19/2021 - 12/09/2021   See section 01 for meeting dates and locations.
+PT-691-15 Service & Commnty Learning III 2 Open 10 7 Quinn Books
+Clinic 8/19/2021 - 12/09/2021   See section 01 for meeting dates and locations.
+PT-691-16 Service & Commnty Learning III 2 Open 10 6 Ulanowski Books
+Clinic 8/19/2021 - 12/09/2021   See section 01 for meeting dates and locations.
+PT-691-17 Service & Commnty Learning III 2 Open 10 6 Wingard Books
+Clinic 8/19/2021 - 12/09/2021   See section 01 for meeting dates and locations.
+PT-720-01 PT Practice Experience II 10 CLOSED 70 0 Quinn, Granada, Dotson $200 Books
+Internship 8/19/2021 - 12/09/2021 Off-Campus  
+PT-740-01 Capstone Project 6 Open 15 6 Ayotte Books
+Thesis 8/19/2021 - 12/09/2021   
+PT-740-02 Capstone Project 6 Open 15 7 Bareiss Books
+Thesis 8/19/2021 - 12/09/2021   
+PT-740-03 Capstone Project 6 Open 15 11 Crandell Books
+Thesis 8/19/2021 - 12/09/2021   
+Course Subject,
+Number &
+Section
+Title
+Credit
+Hours Status
+Max
+Cap
+Seats
+Avail Instructor
+Est'd
+Fee
+Req'd
+Mats
+Sub-
+Sess
+Instructional Method Dates Location Times Notes
+Page 147 of 150
+Last refreshed on 10/4/2021 at 7:05 PM Page 147 of 150
+PT-740-04 Capstone Project 6 Open 15 10 Danzl Books
+Thesis 8/19/2021 - 12/09/2021   
+PT-740-05 Capstone Project 6 Open 20 11 Ennis Books
+Thesis 8/19/2021 - 12/09/2021   
+PT-740-06 Capstone Project 6 Open 15 15 Granada Books
+Thesis 8/19/2021 - 12/09/2021   
+PT-740-07 Capstone Project 6 Open 15 13 Hall-Bibb Books
+Thesis 8/19/2021 - 12/09/2021   
+PT-740-08 Capstone Project 6 Open 15 12 Hartmann Books
+Thesis 8/19/2021 - 12/09/2021   
+PT-740-09 Capstone Project 6 Open 15 11 Kerr Books
+Thesis 8/19/2021 - 12/09/2021   
+PT-740-10 Capstone Project 6 Open 15 11 Lesch Books
+Thesis 8/19/2021 - 12/09/2021   
+PT-740-11 Capstone Project 6 Open 15 11 P Lonnemann Books
+Thesis 8/19/2021 - 12/09/2021   
+PT-740-12 Capstone Project 6 Open 15 12 Nevin Books
+Thesis 8/19/2021 - 12/09/2021   
+Course Subject,
+Number &
+Section
+Title
+Credit
+Hours Status
+Max
+Cap
+Seats
+Avail Instructor
+Est'd
+Fee
+Req'd
+Mats
+Sub-
+Sess
+Instructional Method Dates Location Times Notes
+Page 148 of 150
+Last refreshed on 10/4/2021 at 7:05 PM Page 148 of 150
+PT-740-13 Capstone Project 6 Open 15 7 Windsor Books
+Thesis 8/19/2021 - 12/09/2021   
+PT-740-14 Capstone Project 6 Open 15 12 Prewitt Books
+Thesis 8/19/2021 - 12/09/2021   
+PT-740-15 Capstone Project 6 Open 15 11 Quinn Books
+Thesis 8/19/2021 - 12/09/2021   
+PT-740-16 Capstone Project 6 Open 15 15 Ulanowski Books
+Thesis 8/19/2021 - 12/09/2021   
+PT-740-17 Capstone Project 6 Open 15 15 Wingard Books
+Thesis 8/19/2021 - 12/09/2021   
+RTH-508-01 Respiratory Therapy Science I 3 Open 10 8 L Jones $75 Books
+Lecture 8/19/2021 - 12/09/2021 FLYN 116 WF  8:00-9:30 AM Reserved for Master of Health Science students
+only.
+RTH-509-01 Resp Therapy Science I Lab 1 Open 10 8 L Jones $220 Books
+Lab 8/19/2021 - 12/09/2021 FLYN 120 F  10:00 AM-12:50 PM Reserved for Master of Health Science students
+only.
+RTH-511-01 Clinical Assessment 3 Open 10 8 Pehlke $150 Books
+Lecture 8/19/2021 - 12/09/2021 FLYN 116 M  8:00-9:50 AM
+Lab 8/19/2021 - 12/09/2021 FLYN 116 M  12:00-2:25 PM
+Reserved for Master of Health Science students
+only.
+RTH-540-01 Resp Therapy Clinical Edu I 2 Open 10 8 L Jones $850 Books
+Lecture 8/19/2021 - 12/09/2021 Off-Campus T  6:30 AM-7:00 PM Reserved for Master of Health Science students
+only.
+Course Subject,
+Number &
+Section
+Title
+Credit
+Hours Status
+Max
+Cap
+Seats
+Avail Instructor
+Est'd
+Fee
+Req'd
+Mats
+Sub-
+Sess
+Instructional Method Dates Location Times Notes
+Page 149 of 150
+Last refreshed on 10/4/2021 at 7:05 PM Page 149 of 150
+RTH-620-01 Resp Therapy Science III 3 Open 8 6 Pehlke $215 Books
+Lecture 8/19/2021 - 12/09/2021 FLYN 132 T  8:00-10:40 AM
+Lab 8/19/2021 - 12/09/2021 FLYN 120 Th  11:00 AM-1:00 PM
+Reserved for Master of Health Science students
+only.
+RTH-630-01 Adv Cardiopulmonary Dis Mgt II 3 Open 10 8 Sterrett $70 Books
+Lecture 8/19/2021 - 12/09/2021 FLYN 116 M  2:30-5:00 PM Restricted to Respiratory Therapy program only.
+RTH-650-01 Neonatal/Ped Resp Care 3 Open 8 6 Plaiss $75 Books
+Lecture 8/19/2021 - 12/09/2021 FLYN 132 Th  8:00-10:40 AM Reserved for Master of Health Science students
+only.
+RTH-660-01 Resp Therapy Clinical III 3 Open 8 6 L Jones $315 Books
+Lecture 8/19/2021 - 12/09/2021 Off-Campus W  6:30 AM-7:00 PM Restricted to Respiratory Therapy program only.
+RTH-875-01 Dissertation I 3 CLOSED 0 -2 Kane Books
+Contract Course 8/19/2021 - 12/09/2021 Off-Campus  Contract Course form required for registration.
+Program Chair Permission required to register.
+Contract Course Form required to register.
+Course Subject,
+Number &
+Section
+Title
+Credit
+Hours Status
+Max
+Cap
+Seats
+Avail Instructor
+Est'd
+Fee
+Req'd
+Mats
+Sub-
+Sess
+Instructional Method Dates Location Times Notes
+Page 150 of 150
+Last refreshed on 10/4/2021 at 7:05 PM Page 150 of 150
+

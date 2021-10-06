@@ -1,5 +1,3 @@
-package part1;
-
 /**
  * A class that will search a text file and find patterns. Thus class accept two input in the command-line.
  *  1. Name of the file. 2. A regex pattern to search in the file. 
@@ -11,6 +9,8 @@ package part1;
  * CS322 - Compiler Construction
  * Fall 2021
  */
+package part1;
+
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.nio.ByteBuffer;
@@ -43,6 +43,14 @@ public class TextProcessor {
   	 * try-catch method to catch IO exception
   	 * Creating matcher on file
   	 * Find all matches and print them along with how many occurrences
+  	 * 
+  	 * 
+  	 * Pattern to use:
+  	 * (\ [Aa][n]?\ )|(\ [Tt](he ))
+  	 * \w+( Transylvania) or \bTransylvania
+  	 * (\bMina Harker|\bMrs. Harker) or ( Mina Harker )|( Mrs. Harker )
+  	 * \ [Tt][o]\ \w+ (not working) or \bto\s\w+ (works)
+  	 * \ (?!Helsing)(?!Godalming)\w+(ing)
   	 */
   public static void main(String[] args){
     // Create matcher on file

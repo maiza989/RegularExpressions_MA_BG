@@ -18,17 +18,37 @@ import org.apache.pdfbox.text.PDFTextStripper;
  
 public class ExtractText {
  
+	/**
+	 * try-catch statement to catch an IOEception.
+	 * Using PDFBox to creating A document to load the pdf file.
+	 * Creating a string to whole the pdf data and convert it to text
+	 * use PrtintWriter to save the newly created text file. 
+	 * closing out and doc
+	 * Call ProcessSchedule
+	 * @param args
+	 */
     public static void main(String[] args) {
+    	String search = "Fall21.txt";
+    	
+    	
         try {
-            PDDocument doc = PDDocument.load(new File("C:\\Users\\maith\\Downloads\\2021FA_Class_Schedule_Daily.pdf"));
+        	
+            PDDocument doc = PDDocument.load(new File("2021FA_Class_Schedule_Daily.pdf"));
             String text = new PDFTextStripper().getText(doc);;
-            System.out.println("Text in PDF\n---------------------------------");
-            System.out.println(text);
-            
-            PrintWriter out = new PrintWriter("C:\\Users\\maith\\Desktop\\School\\CS-322\\RegularExpressions_MA_BG\\src\\part2\\Fall21.txt");
+
+
+            PrintWriter out = new PrintWriter(search);
             out.println(text);
-          
             
+            out.close();
+		    doc.close();
+          
+		    ProcessSchedule ps = new ProcessSchedule(search);
+            
+		    ps.CourseTitles();
+		    ps.Seats();
+		    ps.ClassCount();
+		    
             }// end of try
         catch (IOException e) {
             e.printStackTrace();
