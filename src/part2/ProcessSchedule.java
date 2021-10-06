@@ -26,6 +26,11 @@ import java.util.HashMap;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+/**
+ * to get the menu text to choose which search to do. You can use switch case to do so.
+ * I couldn't do it correctly so a sorting to store the answers into different text file
+ * 
+ */
 
 public class ProcessSchedule {
 	/**
@@ -159,16 +164,22 @@ public ProcessSchedule(String file) {
 		/**
 		 * for loop to go through the map and get the number of classes
 		 */
+		//System.out.println("How many unique class\n");
 		for (String i : map.keySet()) {
 			
+			  //System.out.println(i +":"+ " Offers " + map.get(i) + " Different classes ");
 			  out.println(i +":"+ " Offers " + map.get(i) + " Different classes ");
-			  
 			}// end of modified for loop
 	
 		out.close();
 			
 	}// end ClassCount
 	
+	/**
+	 * to get the menu text to choose which search to do. You can use switch case to do so.
+	 * I couldn't do it correctly so a sorting to store the answers into different text file
+	 * 
+	 */
 
 
    }// end of class
