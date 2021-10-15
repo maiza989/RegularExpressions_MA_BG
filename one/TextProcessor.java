@@ -1,3 +1,5 @@
+package one;
+
 /**
  * A class that will search a text file and find patterns. Thus class accept two input in the command-line.
  *  1. Name of the file. 2. A regex pattern to search in the file. 
@@ -9,7 +11,6 @@
  * CS322 - Compiler Construction
  * Fall 2021
  */
-package part1;
 
 import java.io.FileInputStream;
 import java.io.IOException;

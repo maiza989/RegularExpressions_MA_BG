@@ -1,3 +1,5 @@
+package three;
+
 /**
  * LogFileProcessor takes a .txt file and scans it given different regex expressions. It searches for IP addresses along with usernames and counts them in seperate hashmaps.
  * 
@@ -7,8 +9,6 @@
  * CS322 - Compiler Construction
  * Fall 2021
  */
-
-package part3;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

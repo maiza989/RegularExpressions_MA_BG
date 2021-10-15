@@ -1,3 +1,5 @@
+package two;
+
 /**
  *  A Class that search a newly created text file and get infromation about courses
  *  Such as course title, if its open or close, how many seats are avaible, and lastly find how many classes offered for each program in Fall21
@@ -8,7 +10,6 @@
  * CS322 - Compiler Construction
  * Fall 2021
  */
-package part2;
 
 import java.io.BufferedReader;
 import java.io.File;
